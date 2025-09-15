@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I’m [Mark Steven Clemente]
+# 👋 Hi, I’m Mark Steven Clemente
 
 ## 🔭 I’m currently working on
 - I’m a **working student at Jollibee** 🍔  
