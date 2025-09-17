@@ -2,13 +2,21 @@
 <!--        HEADER           -->
 <!-- ======================== -->
 
-<h1 align="center">👋 Hi, I'm Steven Clemente</h1>
-<p align="center">Aspiring Full-Stack Developer | BSIS Student</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Steven;Aspiring+Full+Stack+Developer;BSIS+Student;Coffee+Lover+%E2%98%95" alt="Typing SVG" />
+</p>
+
+
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="(https://x.com/StevenClem72184/photo)"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="mailto:jollitownfriends@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://i.ibb.co/7yZ8VZL/lightning-divider.gif" width="600" alt="Cool Divider" />
 </p>
 
 ---
@@ -32,13 +40,10 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </p>
-
 ---
 
 <!-- ======================== -->
